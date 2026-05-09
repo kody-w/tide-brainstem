@@ -6,10 +6,11 @@
   "display_name": "Tide",
   "github": "https://github.com/kody-w/tide-brainstem",
   "url": "https://kody-w.github.io/tide-brainstem/",
-  "parent_rappid": null,
+  "parent_rappid": "rappid:v2:operator:@kody-w/kody-twin:91d006ca7bd052bfa5021d623122012f@github.com/kody-w/kody-twin",
   "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
   "planted_at": "2026-05-09T15:45:45Z",
   "kernel_version": "0.6.0",
-  "_planted_by_agent": "plant_seed_agent"
+  "_planted_by_agent": "plant_seed_agent",
+  "_backfill_reason_parent": "Article XLVI.6 \u2014 parent_rappid for rebuild"
 }
