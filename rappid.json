@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:twin:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7@github.com/kody-w/tide-brainstem",
+  "kind": "twin",
+  "name": "tide-brainstem",
+  "display_name": "Tide",
+  "github": "https://github.com/kody-w/tide-brainstem",
+  "url": "https://kody-w.github.io/tide-brainstem/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-09T15:45:45Z",
+  "kernel_version": "0.6.0",
+  "_planted_by_agent": "plant_seed_agent"
+}
