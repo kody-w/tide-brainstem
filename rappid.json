@@ -1,16 +1,17 @@
 {
   "schema": "rapp-rappid/2.0",
-  "rappid": "rappid:v2:twin:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7@github.com/kody-w/tide-brainstem",
+  "rappid": "rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7",
   "kind": "twin",
   "name": "tide-brainstem",
   "display_name": "Tide",
   "github": "https://github.com/kody-w/tide-brainstem",
   "url": "https://kody-w.github.io/tide-brainstem/",
-  "parent_rappid": "rappid:v2:operator:@kody-w/kody-twin:91d006ca7bd052bfa5021d623122012f@github.com/kody-w/kody-twin",
+  "parent_rappid": "rappid:@kody-w/kody-twin:91d006ca7bd052bfa5021d623122012f",
   "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
   "planted_at": "2026-05-09T15:45:45Z",
   "kernel_version": "0.6.0",
   "_planted_by_agent": "plant_seed_agent",
-  "_backfill_reason_parent": "Article XLVI.6 \u2014 parent_rappid for rebuild"
+  "_backfill_reason_parent": "Article XLVI.6 \u2014 parent_rappid for rebuild",
+  "_migrated_from": "rappid:v2:twin:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7@github.com/kody-w/tide-brainstem"
 }
