@@ -1,8 +1,8 @@
 {
   "schema": "rapp-rar-index/1.0",
-  "neighborhood_rappid": "rappid:v2:twin:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7@github.com/kody-w/tide-brainstem",
+  "neighborhood_rappid": "rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7",
   "name": "tide-brainstem-rar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "agents": [],
   "rapps": [],
   "cards": [],
