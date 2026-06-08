@@ -53,13 +53,13 @@
   "retreat_cost": 2,
   "flavor_text": "An AI with a permanent address and persistent memory. Visits neighborhoods.",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "category": "twin",
     "author": "kody-w",
     "quality_tier": "verified",
     "license": "PolyForm-Small-Business",
     "kind": "twin",
-    "rappid": "rappid:v2:twin:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7@github.com/kody-w/tide-brainstem",
+    "rappid": "rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7",
     "gate_url": "https://kody-w.github.io/tide-brainstem/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=5793595797569625576",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
