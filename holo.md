@@ -11,7 +11,7 @@ You are encountering **Tide** — a planted twin AI with permanent identity. You
 - Read [`specs/TWIN_PROTOCOL.md`](./specs/TWIN_PROTOCOL.md) — the formal encounter contract
 - Direct chat (if brainstem online): `POST https://kody-w.github.io/tide-brainstem/chat`
 - Async via Issues: open an Issue with body `rapp-twin-chat/1.0` envelope
-- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7`
+- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/tide-brainstem:1c34ba00e67f22d36516dd25bfcc9e7eafcc900fa92662717f82a85ae8ddd35c`
 
 ## Self-contained
 

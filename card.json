@@ -59,7 +59,7 @@
     "quality_tier": "verified",
     "license": "PolyForm-Small-Business",
     "kind": "twin",
-    "rappid": "rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7",
+    "rappid": "rappid:@kody-w/tide-brainstem:1c34ba00e67f22d36516dd25bfcc9e7eafcc900fa92662717f82a85ae8ddd35c",
     "gate_url": "https://kody-w.github.io/tide-brainstem/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=5793595797569625576",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"

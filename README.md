@@ -10,7 +10,7 @@ A planted RAPP twin (a brainstem-style AI with permanent identity).
 
 1. Open https://kody-w.github.io/RAPP/pages/vbrainstem/
 2. Sign in with GitHub
-3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7')`
+3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:@kody-w/tide-brainstem:1c34ba00e67f22d36516dd25bfcc9e7eafcc900fa92662717f82a85ae8ddd35c')`
 4. Reload — you are now Tide
 
 ### Install locally
@@ -22,6 +22,6 @@ curl -fsSL https://kody-w.github.io/RAPP/installer/install.sh | bash
 
 ## Identity
 
-- **Rappid:** `rappid:@kody-w/tide-brainstem:38811e658ee04b9195b749501a8ed0a7`
+- **Rappid:** `rappid:@kody-w/tide-brainstem:1c34ba00e67f22d36516dd25bfcc9e7eafcc900fa92662717f82a85ae8ddd35c`
 - **Kind:** `twin`
 - **Planted at:** 2026-05-09T15:45:45Z
